@@ -1,4 +1,5 @@
-# Event Journal
+# interview-mock-event-journal
+cope
 
 A dependency-free, in-memory activity feed. Export: CommonJS `EventJournal`.
 
